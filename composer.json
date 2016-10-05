@@ -1,0 +1,16 @@
+{
+  "name": "silexpack",
+  "authors": [
+    {
+      "name": "Paul Novikov",
+      "email": "paulfcdd@gmail.com"
+    }
+  ],
+  "require": {
+    "silex/silex": "~2.0",
+    "twig/twig": "~1.25.0",
+    "monolog/monolog": "~1.21.0",
+    "symfony/asset": "~3.1.4",
+    "symfony/twig-bridge": "~3.1.4"
+  }
+}
